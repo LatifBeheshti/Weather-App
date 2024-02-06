@@ -11,7 +11,7 @@ import snow_icon from "../Assets/snow.png";
 import wind_icon from "../Assets/wind.png";
 
 export const WheatherApp = () => {
-  let api_key = "6acc2ef29ed93a897515e94b75a39b8d";
+  let api_key = "000000000000000";
 
   const [wicon, setWicon] = useState(cloud_icon);
 
